@@ -1,0 +1,12 @@
+{
+  "name": "aimoda",
+  "owner": {
+    "name": "ai.moda",
+    "email": "modabot@ai.moda"
+  },
+  "metadata": {
+    "description": "ai.moda plugin marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
