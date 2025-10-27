@@ -8,5 +8,16 @@
     "description": "ai.moda plugin marketplace",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "remote-camera",
+      "source": {
+        "source": "github",
+        "repo": "aimoda/claude-code-remote-camera-plugin"
+      },
+      "description": "Capture and analyze photos from mobile devices for hardware debugging, PCB inspection, chip identification, and visual analysis tasks",
+      "keywords": ["camera", "hardware", "debugging", "pcb", "inspection", "visual", "mobile", "photography", "electronics"],
+      "category": "hardware"
+    }
+  ]
 }
